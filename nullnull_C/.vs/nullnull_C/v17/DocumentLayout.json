@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Github\\C\\nullnull_C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34E80160-9338-4266-8093-FAEF755A3FDC}|09_getsSample\\09_getsSample.vcxproj|C:\\Github\\C\\nullnull_C\\09_getsSample\\getsSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34E80160-9338-4266-8093-FAEF755A3FDC}|09_getsSample\\09_getsSample.vcxproj|solutionrelative:09_getsSample\\getsSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{543180D0-67AF-4B3A-993A-9247BF0C4168}|09_scanfAge\\09_scanfAge.vcxproj|C:\\Github\\C\\nullnull_C\\09_scanfAge\\scanfAge.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{543180D0-67AF-4B3A-993A-9247BF0C4168}|09_scanfAge\\09_scanfAge.vcxproj|solutionrelative:09_scanfAge\\scanfAge.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37AB2418-971D-41C2-994D-0899E073BBFC}|09_getchSample\\09_getchSample.vcxproj|C:\\Github\\C\\nullnull_C\\09_getchSample\\getchSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{37AB2418-971D-41C2-994D-0899E073BBFC}|09_getchSample\\09_getchSample.vcxproj|solutionrelative:09_getchSample\\getchSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1F20B146-A4EA-4BD0-A6D2-2237F1A3689D}|09_get_sSample\\09_get_sSample.vcxproj|C:\\Github\\C\\nullnull_C\\09_get_sSample\\gets_sSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F20B146-A4EA-4BD0-A6D2-2237F1A3689D}|09_get_sSample\\09_get_sSample.vcxproj|solutionrelative:09_get_sSample\\gets_sSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E80160-9338-4266-8093-FAEF755A3FDC}|09_getsSample\\09_getsSample.vcxproj|C:\\Github\\C\\nullnull_C\\09_getsSample\\getsSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34E80160-9338-4266-8093-FAEF755A3FDC}|09_getsSample\\09_getsSample.vcxproj|solutionrelative:09_getsSample\\getsSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FAFF084-5081-41ED-A3D8-7C2A1F8AA803}|09_getcharSample\\09_getcharSample.vcxproj|C:\\Github\\C\\nullnull_C\\09_getcharSample\\getcharSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,50 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "getsSample.c",
-              "DocumentMoniker": "C:\\Github\\C\\nullnull_C\\09_getsSample\\getsSample.c",
-              "RelativeDocumentMoniker": "09_getsSample\\getsSample.c",
-              "ToolTip": "C:\\Github\\C\\nullnull_C\\09_getsSample\\getsSample.c",
-              "RelativeToolTip": "09_getsSample\\getsSample.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-15T07:01:31.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "getchSample.c",
-              "DocumentMoniker": "C:\\Github\\C\\nullnull_C\\09_getchSample\\getchSample.c",
-              "RelativeDocumentMoniker": "09_getchSample\\getchSample.c",
-              "ToolTip": "C:\\Github\\C\\nullnull_C\\09_getchSample\\getchSample.c",
-              "RelativeToolTip": "09_getchSample\\getchSample.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-15T05:49:00.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "getcharSample.c",
-              "DocumentMoniker": "C:\\Github\\C\\nullnull_C\\09_getcharSample\\getcharSample.c",
-              "RelativeDocumentMoniker": "09_getcharSample\\getcharSample.c",
-              "ToolTip": "C:\\Github\\C\\nullnull_C\\09_getcharSample\\getcharSample.c",
-              "RelativeToolTip": "09_getcharSample\\getcharSample.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-15T05:01:28.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "floatError.c",
               "DocumentMoniker": "C:\\Github\\C\\nullnull_C\\04_floatError\\floatError.c",
               "RelativeDocumentMoniker": "04_floatError\\floatError.c",
@@ -78,6 +43,59 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-02-15T02:53:23.886Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "getcharSample.c",
+              "DocumentMoniker": "C:\\Github\\C\\nullnull_C\\09_getcharSample\\getcharSample.c",
+              "RelativeDocumentMoniker": "09_getcharSample\\getcharSample.c",
+              "ToolTip": "C:\\Github\\C\\nullnull_C\\09_getcharSample\\getcharSample.c",
+              "RelativeToolTip": "09_getcharSample\\getcharSample.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-15T05:01:28.478Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scanfAge.c",
+              "DocumentMoniker": "C:\\Github\\C\\nullnull_C\\09_scanfAge\\scanfAge.c",
+              "RelativeDocumentMoniker": "09_scanfAge\\scanfAge.c",
+              "ToolTip": "C:\\Github\\C\\nullnull_C\\09_scanfAge\\scanfAge.c",
+              "RelativeToolTip": "09_scanfAge\\scanfAge.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-19T06:45:53.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gets_sSample.c",
+              "DocumentMoniker": "C:\\Github\\C\\nullnull_C\\09_get_sSample\\gets_sSample.c",
+              "RelativeDocumentMoniker": "09_get_sSample\\gets_sSample.c",
+              "ToolTip": "C:\\Github\\C\\nullnull_C\\09_get_sSample\\gets_sSample.c",
+              "RelativeToolTip": "09_get_sSample\\gets_sSample.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-19T06:27:44.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "getsSample.c",
+              "DocumentMoniker": "C:\\Github\\C\\nullnull_C\\09_getsSample\\getsSample.c",
+              "RelativeDocumentMoniker": "09_getsSample\\getsSample.c",
+              "ToolTip": "C:\\Github\\C\\nullnull_C\\09_getsSample\\getsSample.c",
+              "RelativeToolTip": "09_getsSample\\getsSample.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-15T07:01:31.841Z",
               "EditorCaption": ""
             }
           ]
