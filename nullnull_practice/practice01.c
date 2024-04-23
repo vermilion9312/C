@@ -2,15 +2,17 @@
 
 int main(void)
 {
-	int nCount = 0;
-	scanf_s("%d", &nCount);
-
-	int i = 0;
-	while (i < nCount)
+	for (int i = 0; i < 5; i++)
 	{
-		putchar('*');
-		i++;
+		for (int j = 0; j < 4 - i; j++)
+		{
+			printf("  ");
+		}
+		for (int k = 0; k < i + 1; k++)
+		{
+			printf("* ");
+		}
+		printf("\n");
 	}
-	putchar('\n');
 	return 0;
 }
