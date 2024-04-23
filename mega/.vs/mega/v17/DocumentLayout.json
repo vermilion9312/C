@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\C\\mega\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD19380-8798-4D29-97F4-F425BD3129B3}|mega.vcxproj|C:\\Github\\C\\mega\\_001_score_program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BD19380-8798-4D29-97F4-F425BD3129B3}|mega.vcxproj|solutionrelative:_001_score_program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_001_score_program.cpp",
+              "DocumentMoniker": "C:\\Github\\C\\mega\\_001_score_program.cpp",
+              "RelativeDocumentMoniker": "_001_score_program.cpp",
+              "ToolTip": "C:\\Github\\C\\mega\\_001_score_program.cpp",
+              "RelativeToolTip": "_001_score_program.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T08:14:56.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
