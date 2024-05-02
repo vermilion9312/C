@@ -1,3 +1,4 @@
 ﻿  _001_score_program.cpp
-C:\Github\C\mega\_001_score_program.cpp(21,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Github\C\mega\_001_score_program.cpp(24,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Github\C\mega\_001_score_program.cpp(37,83): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   mega.vcxproj -> C:\Github\C\mega\x64\Debug\mega.exe

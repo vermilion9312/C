@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="_001_score_program.cpp">
+    <ClCompile Include="_001_score_program.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
