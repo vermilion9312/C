@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Github\\C\\mega\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BD19380-8798-4D29-97F4-F425BD3129B3}|mega.vcxproj|C:\\Github\\C\\mega\\temp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BD19380-8798-4D29-97F4-F425BD3129B3}|mega.vcxproj|solutionrelative:temp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BD19380-8798-4D29-97F4-F425BD3129B3}|mega.vcxproj|C:\\Github\\C\\mega\\_001_score_program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4BD19380-8798-4D29-97F4-F425BD3129B3}|mega.vcxproj|solutionrelative:_001_score_program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "temp.c",
+              "DocumentMoniker": "C:\\Github\\C\\mega\\temp.c",
+              "RelativeDocumentMoniker": "temp.c",
+              "ToolTip": "C:\\Github\\C\\mega\\temp.c*",
+              "RelativeToolTip": "temp.c*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-21T10:13:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_001_score_program.c",
               "DocumentMoniker": "C:\\Github\\C\\mega\\_001_score_program.c",
               "RelativeDocumentMoniker": "_001_score_program.c",
